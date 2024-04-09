@@ -1,5 +1,5 @@
 {
-    "language": "vi",
+    "language": "en",
     "keyActive": "",
     "DeveloperMode": false,
     "autoCreateDB": true,
@@ -10,11 +10,10 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "",
-    "PREFIX": "!",
+    "BOTNAME": "JANU",
+    "PREFIX": "$",
     "ADMINBOT": [
-        "USERID1",
-        "USERID2"
+        "61551807602990"
     ],
     "DATABASE": {
         "sqlite": {
